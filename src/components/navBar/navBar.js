@@ -1,7 +1,7 @@
 import CartWidget from "../CartWidget/CartWidget";
 const NavBar = () => {
   return (
-    <nav class="barra navbar navbar-expand-lg">
+    <nav className="barra navbar navbar-expand-lg">
       <div className="container-fluid">
         <h3 className="titulo fw-bold">FC Sport</h3>
         <button
